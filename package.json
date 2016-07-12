@@ -13,6 +13,9 @@
     "email": "ramr@example.org",
     "url": "http://www.openshift.com/"
   },
+  "scripts": {
+  "start": "nodejs server.js"
+  },
   "homepage": "http://www.openshift.com/",
   "repository": {
     "type": "git",
